@@ -1,0 +1,3 @@
+﻿Module LanguageMgr
+
+End Module

@@ -239,6 +239,7 @@
     <Compile Include="History.vb" />
     <Compile Include="Importer.vb" />
     <Compile Include="KI_Path.vb" />
+    <Compile Include="LanguageMgr.vb" />
     <Compile Include="Log.vb" />
     <Compile Include="Local3DObjekt.vb" />
     <Compile Include="Modifier.vb" />
